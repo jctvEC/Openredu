@@ -24,6 +24,7 @@ services:
       - app
     ports:
       - 80:80
+      - 443:443
     networks: 
       - vis_default
       - livredoc_default
@@ -70,6 +71,7 @@ services:
     
   delayedjob:
     build: .
+    restart: always
     command: rake jobs:work
     volumes:
       - .:/rails_app
