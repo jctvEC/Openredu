@@ -19,7 +19,7 @@ Este repositório contem o core do Openredu. O openredu-core é a parte central 
 
 ### Comunidade de Software Livre Openredu
 
-Em caso de desejar fazer contato direto com a comunidade, existe um fórum [http://forum.openredu.com] o qual você pode tirar suas dúvidas, fazer postagens com sugestões, comentários e elogios. Sinta-se a vontade para contribuir e fazer a comunidade crescer!
+Em caso de desejar fazer contato direto com a comunidade, existe um [fórum](http://forum.openredu.com) ([http://forum.openredu.com](http://forum.openredu.com)) o qual você pode tirar suas dúvidas, fazer postagens com sugestões, comentários e elogios. Sinta-se a vontade para contribuir e fazer a comunidade crescer!
 
 
 ### Setup
